@@ -1,0 +1,4 @@
+db.url=jdbc:mysql://localhost:3306/your_db
+db.username=YOUR_USERNAME
+db.password=YOUR_PASSWORD
+db.driver=mysql_driver
